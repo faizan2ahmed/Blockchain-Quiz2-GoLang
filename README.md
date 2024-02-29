@@ -12,15 +12,15 @@ git reset .\README.md
 git diff  
 git diff --staged  
 git commit -m "Added git commands to Readme.md file that I used."  
-git branch
-git branch dev
-git checkout
-git checkout dev
-git merge main
-git loggit pull
-git push Origin main
-git fetch
-git stash
-git rm ./Main.go
-git stash pop
-git stash drop
+git branch  
+git branch dev  
+git checkout  
+git checkout dev  
+git merge main  
+git loggit pull  
+git push Origin main  
+git fetch  
+git stash  
+git rm ./Main.go  
+git stash pop  
+git stash drop  
